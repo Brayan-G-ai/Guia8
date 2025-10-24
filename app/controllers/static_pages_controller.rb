@@ -11,3 +11,5 @@ describe "GET #about" do
     expect(response).to have_http_status(:success)
   end
 end
+def about
+end
